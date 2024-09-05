@@ -1,0 +1,1 @@
+from . import slurpit_ssot
